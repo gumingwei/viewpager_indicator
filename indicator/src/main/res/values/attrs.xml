@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="tab_color_normal" format="color" />
+    <attr name="tab_color_light" format="color" />
+    <attr name="cursor_color" format="color" />
+    <attr name="cursor_height" format="dimension" />
+
+    <declare-styleable name="Indicator">
+        <attr name="tab_color_normal" />
+        <attr name="tab_color_light" />
+        <attr name="cursor_color" />
+        <attr name="cursor_height" />
+    </declare-styleable>
+</resources>
